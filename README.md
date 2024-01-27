@@ -60,7 +60,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 
 ```
-Note: Make sure you change your docker hub username, image name and your dockerfile location. Above is an example GitHub Actions workflow for building and pushing a Docker image to Docker Hub. This workflow is triggered on each commit.
+<b> Note:</b> Make sure you change your docker hub username, image name and your dockerfile location. Above is an example GitHub Actions workflow for building and pushing a Docker image to Docker Hub. This workflow is triggered on each commit.
 
 - After adding the code, commit the changes in the main.yaml file.
 - Go to “Actions” and see whether the file is being created or not. If yes, then the instructions that are included in the yaml file will be executed and the image will be pushed to the docker hub.
