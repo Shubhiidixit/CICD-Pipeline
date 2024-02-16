@@ -1,4 +1,4 @@
-# CI/CD Pipeline to Docker Hub
+# CI/CD Pipeline To Docker Hub
 This repository demonstrates the setup of a CI/CD pipeline that automatically builds and pushes Docker images to Docker Hub upon each commit.
 
 ## Overview
