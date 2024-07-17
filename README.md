@@ -72,3 +72,6 @@ jobs:
 ## Benefits
 - Automated Docker Image Builds: Commits automatically initiate Docker image builds, reflecting the latest changes.
 - Streamlined Docker Image Pushes: Images are pushed to Docker Hub automatically, simplifying the deployment process.
+
+  ![diagram-export-7-15-2024-11_22_59-PM](https://github.com/user-attachments/assets/c096162b-b53a-4a5e-b761-4f9a8468a578)
+
